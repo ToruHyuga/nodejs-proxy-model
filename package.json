@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-proxy-model",
+  "version": "1.0.3",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "mongoose": "^4.4.19"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToruHyuga/nodejs-proxy-model.git"
+  },
+  "author": "Hyuga Toru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ToruHyuga/nodejs-proxy-model/issues"
+  },
+  "homepage": "https://github.com/ToruHyuga/nodejs-proxy-model#readme"
+}
